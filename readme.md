@@ -1,4 +1,6 @@
-# FFCG: Effective and Fast Family Column Generation for Solving Large-Scale Linear Program
+# FFCG: Effective and Fast Family Column Generation for Solving Large-Scale Linear Program 
+
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33222)
 
 ## How to run the code
 
@@ -27,10 +29,12 @@ Shuli Zeng, and the anonymous reviewers for their comments and helpful feedback.
 
 ```
 @inproceedings{hu2025ffcg,
-  author     = {Yi-Xiang Hu and Feng Wu and Shaoang Li and Yifang Zhao and Xiang-Yang Li},
-  title      = {FFCG: Effective and Fast Family Column Generation for Solving Large-Scale Linear Program},
-  booktitle  = {Thirty-Ninth {AAAI} Conference on Artificial Intelligence, {AAAI} 2025, February 27-March 2, 2025, Philadelphia, USA},
-  publisher  = {{AAAI} Press},
-  year       = {2025},
+  title={FFCG: Effective and Fast Family Column Generation for Solving Large-Scale Linear Program},
+  author={Hu, Yi-Xiang and Wu, Feng and Li, Shaoang and Zhao, Yifang and Li, Xiang-Yang},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={11},
+  pages={11238--11245},
+  year={2025}
 }
 ```
